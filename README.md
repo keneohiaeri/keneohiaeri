@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Nice to meet you!
+
+I am Kene, a designer.
+
+See you in the future! ✨
+
 <!--
 **keneohiaeri/keneohiaeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
